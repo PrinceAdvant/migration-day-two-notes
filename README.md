@@ -13,3 +13,8 @@ Short, practical notes for the weeks after moving apps from a managed platform t
 - [Shipping container logs off the server with a small Vector config](shipping-container-logs-off-the-server-with-a-small-vector-config.md)
 - [Render persistent disks compared with Docker named volumes](render-persistent-disks-compared-with-docker-named-volumes.md)
 - [Cloudflare cache rules that skip logged in pages on a self-hosted app](cloudflare-cache-rules-that-skip-logged-in-pages-on-a-self-hosted-app.md)
+- [Moving one low risk app first when adopting a self-hosted PaaS](moving-one-low-risk-app-first-when-adopting-a-self-hosted-paas.md)
+- [Keeping an old domain alive as a redirect after a rebrand](keeping-an-old-domain-alive-as-a-redirect-after-a-rebrand.md)
+- [Serving a custom 404 page for a static site on nginx](serving-a-custom-404-page-for-a-static-site-on-nginx.md)
+- [Signs your team has outgrown one Docker host but does not need Rancher yet](signs-your-team-has-outgrown-one-docker-host-but-does-not-need-rancher.md)
+- [Checking how a Docker control panel stores your secrets before you commit](checking-how-a-docker-control-panel-stores-your-secrets-before-you-com.md)
